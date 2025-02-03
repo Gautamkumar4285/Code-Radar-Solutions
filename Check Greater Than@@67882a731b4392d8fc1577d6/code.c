@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main(){
-    int a;
-    int b;
+    int a,b;
     if(a>b){
         printf("True");
-    }else{
-        printf("False");
+    }
+    if else(b>a){
+        printf("false");
     }
     return 0;
 }
