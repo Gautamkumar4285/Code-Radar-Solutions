@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
-    char str[100];
-    char str[100];
-    scanf("%s",&str[100]);
-    scanf("%s",&str[100]);
-    printf("You entered: %s and",str[100],str[100]);
+    char str1[100];
+    char str2[100];
+    scanf("%99s",&str1);
+    scanf("%99s",&str2);
+    printf("You entered: %s and",str1,str2);
     return 0;
 
 }
