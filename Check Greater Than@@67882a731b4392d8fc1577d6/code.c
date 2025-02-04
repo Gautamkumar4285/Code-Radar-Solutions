@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int a,b;
-    if(a>=b || b<=a){
+    if(a>=b && a<=b){
         printf("True");
     }
     else{
@@ -9,3 +9,4 @@ int main(){
     }    
     return 0;
 }    
+
