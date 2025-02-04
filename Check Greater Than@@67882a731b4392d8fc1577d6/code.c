@@ -4,7 +4,7 @@ int main(){
     if(a>=b){
         printf("True");
     }
-    else(b>=a){
+    else{
         printf("false");
     }    
     return 0;
