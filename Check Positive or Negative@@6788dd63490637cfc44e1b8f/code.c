@@ -14,5 +14,8 @@ int main() {
         printf("Negative %d",b);
     
     }
+    else{
+        print("");
+    }
     return 0;
 }
