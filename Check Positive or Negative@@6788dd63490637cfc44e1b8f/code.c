@@ -11,11 +11,11 @@ int main() {
         printf("Positive",a);
     }
     else if(a<0){
-        printf("Negative",b);
+        printf("Negative",a);
     
     }
     else{
-        print(" ",a,b);
+        print(" ",a);
     }
     return 0;
 }
