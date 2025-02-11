@@ -15,7 +15,7 @@ int main() {
     
     }
     else{
-        print("");
+        print("%d",a,b);
     }
     return 0;
 }
