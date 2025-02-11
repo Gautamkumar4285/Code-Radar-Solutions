@@ -8,14 +8,14 @@ int main() {
     int a;
     scanf("%d",&a);
     if(a>0){
-        printf("Positive %d",a);
+        printf("Positive",a);
     }
     else if(a<0){
-        printf("Negative %d",b);
+        printf("Negative",b);
     
     }
     else{
-        print("%d",a,b);
+        print(" ",a,b);
     }
     return 0;
 }
