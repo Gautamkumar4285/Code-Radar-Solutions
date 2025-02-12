@@ -10,7 +10,7 @@ int main(){
         printf("Lowerchase");
     }
     else{
-        printf("Not a alphabet");
+        printf("Not an alphabet");
     }
     return 0;
 }
