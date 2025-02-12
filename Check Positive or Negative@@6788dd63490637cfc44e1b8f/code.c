@@ -7,13 +7,7 @@ char* welcome() {
 int main() {
     int a;
     scanf("%d",&a);
-    if(a>0){
-        printf("Positive");
-    }
-    else if(a<0){
-        printf("Negative");
-    
-    }
-    }
+    if(a>0) printf("Positive",a);
+    else if(a<0) printf("Negative",b);
     return 0;
 }
