@@ -3,7 +3,7 @@ int main(){
     char ch;
     scanf("%c",&ch);
     if(ch >='A' && ch <='Z'){
-        printf("upperchase")
+        printf("upperchase");
     }
     else if(ch >='a' && ch<='z'){
         printf("Lowerchase");
