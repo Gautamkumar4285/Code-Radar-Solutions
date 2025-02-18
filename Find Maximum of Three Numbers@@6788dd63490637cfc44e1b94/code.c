@@ -14,5 +14,8 @@ int main(){
     else if(num3>num1){
         printf("%d",num3);
     }
+    else if(num1>num3){
+        printf("%d",num1);
+    }
     return 0;
 }
