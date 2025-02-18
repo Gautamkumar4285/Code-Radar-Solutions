@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main({
+int main(){
     int marks,grade;
     if(marks>=90){
         grade'A'
