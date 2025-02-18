@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
     int marks,grade;
-    if(marks>=90){
-        printf("A %d");
+    if(marks>=90 && marks<100){
+        printf("A");
     }
     else if(marks>=80 && marks<90){
         printf("B");
