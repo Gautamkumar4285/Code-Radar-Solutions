@@ -2,19 +2,19 @@
 int main(){
     int marks,grade;
     if(marks>=90){
-        grade='A'
+        printf("A");
     }
     else if(marks>=80 && marks<90){
-        grade='B'
+        printf("B");
     }
     else if(marks>=70 && marks<80){
-        grade='C'
+        printf("C");
     }
     else if(marks>=60 && marks<70){
-        grade='D'
+        printf("D");
     }
     else{
-        grade='F'
+        printf("E");
     }
     return 0;
 }
