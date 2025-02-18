@@ -2,7 +2,7 @@
 int main(){
     int marks,grade;
     if(marks>=90){
-        printf("A");
+        printf("A %d");
     }
     else if(marks>=80 && marks<90){
         printf("B");
