@@ -6,8 +6,7 @@ int main(){
     for(int i=1;i<=n;i++){
         for(int j=1;j<=n;j++){
             int a = n/2+1;
-            if(i==a || j==a)
-                printf("*")
+            if(i==a || j==a) prinf("*");
             else printf("");
         }
         printf("\n");
